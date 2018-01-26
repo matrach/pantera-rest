@@ -17,7 +17,7 @@ You can access pantera from outside by just running:
 ```bash
 $ ./pantera
 ```
-To tag a file, simply run `./pantera file.txt'`.
+To tag a file, simply run `./pantera file.txt`.
 
 If you want anything advanced, try mounting a directory and using interactive mode:
 ```bash
