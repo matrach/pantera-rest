@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cesAna SYSTEM "xcesAnaIPI.dtd">
+<cesAna version="1.0" type="lex disamb">
+<chunkList>
+<chunk type="p">
+<chunk type="s">
+<tok>
+<orth>Mam</orth>
+<!-- autoselected: fin:sg:pri:imperf -->
+<lex><base>mama</base><ctag>subst:pl:gen:f</ctag></lex>
+<lex><base>mamić</base><ctag>impt:sg:sec:imperf</ctag></lex>
+<lex disamb="1"><base>mieć</base><ctag>fin:sg:pri:imperf</ctag></lex>
+</tok>
+<tok>
+<orth>dwie</orth>
+<!-- autoselected: num:pl:acc:f:congr -->
+<lex><base>dwa</base><ctag>num:pl:nom:f:congr</ctag></lex>
+<lex disamb="1"><base>dwa</base><ctag>num:pl:acc:f:congr</ctag></lex>
+<lex><base>dwa</base><ctag>num:pl:voc:f:congr</ctag></lex>
+</tok>
+<tok>
+<orth>radosne</orth>
+<!-- autoselected: adj:pl:acc:f:pos -->
+<lex><base>radosny</base><ctag>adj:sg:nom:n:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:sg:acc:n:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:sg:voc:n:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:nom:m2:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:nom:m3:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:nom:n:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:acc:m2:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:acc:m3:pos</ctag></lex>
+<lex disamb="1"><base>radosny</base><ctag>adj:pl:acc:f:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:acc:n:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:voc:m2:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:voc:m3:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:voc:f:pos</ctag></lex>
+<lex><base>radosny</base><ctag>adj:pl:voc:n:pos</ctag></lex>
+</tok>
+<tok>
+<orth>mamy</orth>
+<!-- autoselected: subst:pl:acc:f -->
+<lex><base>mama</base><ctag>subst:sg:gen:f</ctag></lex>
+<lex><base>mama</base><ctag>subst:pl:nom:f</ctag></lex>
+<lex disamb="1"><base>mama</base><ctag>subst:pl:acc:f</ctag></lex>
+<lex><base>mama</base><ctag>subst:pl:voc:f</ctag></lex>
+<lex><base>mieć</base><ctag>fin:pl:pri:imperf</ctag></lex>
+</tok>
+<ns/>
+<tok>
+<orth>.</orth>
+<!-- autoselected: interp -->
+<lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+</tok>
+</chunk>
+</chunk>
+</chunkList>
+</cesAna>

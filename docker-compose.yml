@@ -1,0 +1,9 @@
+version: '2'  # version of compose format 
+
+services:
+  pantera-service:
+    build: .  # path is relative to docker-compose.yml localtion
+    volumes:
+      - .:/app # mount point
+    ports:
+      - 5001:5001  # host:container
